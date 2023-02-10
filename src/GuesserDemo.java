@@ -11,7 +11,10 @@ public class GuesserDemo {
 */
 public static void main(String[] args) {
         
+      // create a scanner which will be used for user guess input
         Scanner scanner = new Scanner(System.in);
+      
+        
         Random random = new Random();
         int randomNumber, userGuess;
         
