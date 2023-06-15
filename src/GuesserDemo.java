@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 /**
 * Class for Guessing game app
-* @author rtimoney 
+* @author rtimoney  
 */
 public class GuesserDemo {
 /**
